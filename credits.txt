@@ -1,5 +1,0 @@
-// Credits //
-
-intoxication code, handler, and shader - cyb3r_c001. thank you!
-
-updated intoxication handler - caligari87, phantom, fda.
